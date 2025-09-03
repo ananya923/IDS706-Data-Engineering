@@ -1,3 +1,6 @@
+[![Python Template for IDS706](https://github.com/ananya923/IDS706-Data-Engineering/actions/workflows/main.yml/badge.svg)](https://github.com/ananya923/IDS706-Data-Engineering/actions/workflows/main.yml)
+
+
 # PROJECT DESCRIPTION:
 # This project contains Ananya Jogalekar's submission for an assignment in IDS 706.
 # Using GitHub Codespaces, the project implements a Python script with two functions:
